@@ -1,4 +1,4 @@
-# Manufacturing-Defect-Detection-using-RESUNET
+# Manufacturing-Defect-Detection-using-RESUNET [Please Contact me at gharpuremukul786@gmail.com for Dataset]
 
 In the vanguard of the fourth industrial revolution, artificial intelligence (AI) and machine learning (ML) have emerged as transformative forces in manufacturing. A pivotal application lies within the maintenance department, where the need for automation in defect detection is paramount. The problem at hand is the reactive nature of maintenance protocols, often resulting in halted production lines, wasted resources, and increased operational costs due to unrecognized or late-detected manufacturing defects.
 
