@@ -1,5 +1,9 @@
 # Manufacturing-Defect-Detection-using-RESUNET [Please Contact me at gharpuremukul786@gmail.com for Dataset]
 
+
+![m2](https://github.com/mucool123/Manufacturing-Defect-Detection-using-RESUNET/assets/59078822/35867ecd-dfa7-4506-af28-687b66bbc48c)
+
+
 In the vanguard of the fourth industrial revolution, artificial intelligence (AI) and machine learning (ML) have emerged as transformative forces in manufacturing. A pivotal application lies within the maintenance department, where the need for automation in defect detection is paramount. The problem at hand is the reactive nature of maintenance protocols, often resulting in halted production lines, wasted resources, and increased operational costs due to unrecognized or late-detected manufacturing defects.
 
 Enlisted as an AI/ML consultant for a steel manufacturing company in San Diego, the challenge was to automate the defect detection process. The goal was to enhance the quality of manufacturing while minimizing waste associated with production defects. The task involved developing an AI model capable of detecting and localizing defects on steel surfaces in real-time, utilizing a dataset of 12,600 images, each annotated with types of defects and their precise locations.
